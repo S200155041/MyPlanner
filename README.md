@@ -40,8 +40,8 @@ see more at: [Get data with Cloud Firestore](https://firebase.google.com/docs/fi
 | AddVendor  class | To Add vendors |  |
 | DeleteVendor class | To delete vendor |  |
 | AddVenues class | To add  venue |  |
-| SignUpFragment class | Regestring and authenticating user with the project database |  |
-| SignIn class | Authenticating user with the project database |  |
+| SignUpFragment class | Regestring and authenticating user with the project database | concluded  |
+| SignIn class | Authenticating user with the project database | concluded |
 | DeleteVenue class | To delete venue |  |
 | User class | Object-oriented class containing user data |  |
 | Vendors class | Object-oriented class containing Vendorss data |  |
